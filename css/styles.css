@@ -1,0 +1,32 @@
+#walrus-showing {
+  display: none;
+  padding: 20px;
+}
+
+#elephant-showing {
+  display: none;
+}
+
+.clickme {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickme:hover {
+  text-decoration: underline;
+}
+
+
+.clickable {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable:hover {
+  text-decoration: underline;
+}
+
+img {
+  width: 200px;
+  height: 200px;
+}
